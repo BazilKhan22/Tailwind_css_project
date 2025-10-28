@@ -7,6 +7,6 @@ A React project built with Vite and styled with Tailwind CSS.
 - Tailwind CSS
 - Responsive Design
 
-## Installation
+## Installation.
 ```bash
 npm install
